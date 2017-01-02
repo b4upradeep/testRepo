@@ -1,4 +1,4 @@
-package test.isrg.poc.security;
+package test.sec;
 
 import java.util.Map;
 
